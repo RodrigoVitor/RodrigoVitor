@@ -26,9 +26,9 @@ Nuxt JS is a JavaScript framework that makes it easy to create Vue JS applicatio
 
 **Back-End**
 
--  I'm a junior php and programmer.
--  I have knowlodge in the Database **MySQL**.
--  I'm learning Laravel PHP.
+-  I'm a junior nodejs and programmer.
+-  I have knowlodge in the Database **MySQL and MongoDB**.
+-  I'm learning NodeJS and Mongoose.
 -  I love to program, I'm always learning something new in my daily life 🚀!!
 
 <br />
