@@ -1,7 +1,6 @@
 ### Hi there 👋
-Hello, My name is **Rodrigo Vitor**, I'm from Minas Gerais, Brazil. </br>
-I'm studying to became a full-stack junior programmer ** 🖥️ 🧑‍ <br>
-I'm currently a junior front-end programmer.
+Olá, me chamo Rodrigo Vitor, tenho 20 anos e sou apaixonado pela área de tecnologia. Fiz ensino médio e Técnica de Informática cujo formei em janeiro/2021. Pretendo em breve fazer faculdade de Engenharia de Software.
+Desde 2021 venho estudando programação web, tenho como objetivo me tornar um programador full stack.
 
 
 [<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/RodrigoVitor)
@@ -17,27 +16,21 @@ I'm currently a junior front-end programmer.
 
 **Front-End**
 
-- 👨‍🎓 I'm a junior front-end programmer at Vue.js, an open source Javascript framework.
-- 📖 I have knowledge in Vuex and Nuxt. Vuex is a Vue state management tool. 
-Nuxt JS is a JavaScript framework that makes it easy to create Vue JS applications .
+- 👨‍🎓 Sou desenvolvedor front-end júnior, meus conhecimentos são adquiridos através de cursos onlines.
+- 📖 Para desenvolver minhas aplicações front-end, utilizo os frameworks Vue e Nuxt.
 
 
 </br>
 
 **Back-End**
 
--  I'm a junior nodejs and programmer.
--  I have knowlodge in the Database **MySQL and MongoDB**.
--  I'm learning NodeJS and Mongoose.
--  I love to program, I'm always learning something new in my daily life 🚀!!
+-  Sou desenvolvedor back-end júnior.
+-  Tenho conhecimentos básico em banco de dados **MySql e MongoDB**.
+-  Tenho conhecimentos em **POO** com **PHP**, mas atualmente estou estudando **Nodejs** para backend.
+-  Eu amo programar, Sempre estou apredendo algo novo no meu dia a dia 🚀!!
 
 <br />
 
-**FreeTime**
--  In me freetime I adore watch comedy movies and series! My favorite football team is Corinthians.
-- On Weekends, I play soccer with my friends
-
-<br />
 
 
 <br />
