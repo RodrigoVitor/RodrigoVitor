@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, me chamo Rodrigo Vitor, tenho 20 anos e sou apaixonado pela área de tecnologia. Fiz ensino médio e Técnica de Informática cujo formei em janeiro/2021. Pretendo em breve fazer faculdade de Engenharia de Software.
+Olá, me chamo Rodrigo Vitor, tenho 20 anos e sou apaixonado pela área de tecnologia. Fiz ensino médio e Técnica de Informática cujo formei em janeiro/2021. Em maio inicio meu curso Engenharia da Computação na faculdade Unimar.
 Desde 2021 venho estudando programação web, tenho como objetivo me tornar um programador full stack.
 
 
