@@ -1,6 +1,7 @@
 ### Hi there 👋
-Olá, me chamo Rodrigo Vitor, tenho 20 anos e sou apaixonado pela área de tecnologia. Fiz ensino médio e Técnica de Informática cujo formei em janeiro/2021. Em maio inicio meu curso Engenharia da Computação na faculdade Unimar.
-Desde 2021 venho estudando programação web, tenho como objetivo me tornar um programador full stack.
+Olá, me chamo Rodrigo Vitor, tenho 20 anos e sou apaixonado pela área de tecnologia. Formei ensino médio e Técnica para Informática em janeiro/2021. Atualmente estou no meu 1º ano no curso Engenharia da Computação pela Unimar (Universidade de Marília) no formato EAD.
+Desde 2021 venho estudando programação web com conteúdos gratuitos encontrado na internet, tenho como objetivo me tornar um programador full stack.
+Em julho de 2022 comprei o curso fullstack da b7web no qual estou aprimorando meus conhecimentos.
 
 
 [<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/RodrigoVitor)
@@ -16,8 +17,8 @@ Desde 2021 venho estudando programação web, tenho como objetivo me tornar um p
 
 **Front-End**
 
-- 👨‍🎓 Sou desenvolvedor front-end júnior, meus conhecimentos são adquiridos através de cursos onlines.
-- 📖 Para desenvolver minhas aplicações front-end, utilizo os frameworks Vue e Nuxt.
+- 👨‍🎓 Sou desenvolvedor front-end júnior.
+- 📖 Tenho conhecimento no framework Vue.js.
 
 
 </br>
@@ -26,7 +27,7 @@ Desde 2021 venho estudando programação web, tenho como objetivo me tornar um p
 
 -  Sou desenvolvedor back-end júnior.
 -  Tenho conhecimentos básico em banco de dados **MySql e MongoDB**.
--  Tenho conhecimentos em **POO** com **PHP**, mas atualmente estou estudando **Nodejs** para backend.
+-  Tenho conhecimentos em **POO** com **PHP**, e no futuro desejo aprender **Nodejs** para ampliar meus conhecimentos.
 -  Eu amo programar, Sempre estou apredendo algo novo no meu dia a dia 🚀!!
 
 <br />
